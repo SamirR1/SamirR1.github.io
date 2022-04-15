@@ -15,9 +15,17 @@ This degree has prepared me to enter this new career field as a software enginee
 
 
 
-**Software Design and Engineering Artifact 1:CS410 Reverse Engineering Code Conversion**
-**Algorithms and Data Structure: CS410 Reverse Engineering Enhancements**
+**1. Software Design and Engineering Artifact 1:CS410 Reverse Engineering Code Conversion**
+
+**2. Algorithms and Data Structure: CS410 Reverse Engineering Enhancements**
 
 <img width="436" alt="image" src="https://user-images.githubusercontent.com/86165720/163501039-054e037b-ea5a-45c8-ac67-e9637de149fa.png">
 
 <img width="736" alt="image" src="https://user-images.githubusercontent.com/86165720/163501262-0877fcca-5572-4b2a-b788-28aea0e05556.png">
+
+**Artifact 1 and 2 Narrative**
+
+The artifact that was used for this milestone was a project from CS410 that was originally created in C++. This project was reverse engineered and found to be a calculator that only accepted two numbers and performed addition, subtraction, division only. This artifact is also used as the second artifact.
+	This artifact was selected for the first and second artifact because I felt like there was a lot that could be added to this project and it wouldn’t be too difficult to create a program that could be added to further and could be created to be much more complex. The artifact showcases my skills in understanding multiple programming languages, documenting in comments anything that could be confused by someone reviewing the code as well as the different functions that were used for python and the functions developed for multiplication and division features and use of an array to allow the user to input more numbers. The aspects that showcase skills in data structures and algorithms is the creation of an array to hold all of the inputs from the user that will allow the program to do more calculations than just two numbers. Showcasing skills with algorithms was a little more difficult but the use of encoding a username and password then decoding as well as the use of two new functions that were created to multiply and divide numbers if those options were selected without being interrupted by numbers that are not integers or zeros. The artifact was improved by allowing the user to input more than two inputs. An additional option for multiplication, and the addition of a username and password check.
+	As I was creating and improving this artifact it was difficult creating the new functions and not zeroing out the sum with having zero be the input that would stop taking inputs from the user and would then return the total back to them. I learned from this process to think in simpler terms of how the math would perform normally that dividing and multiplying by zero would throw off the calculation completely. The main challenge was working to become more familiar with the base64 option in python to encode/decode.
+
