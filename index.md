@@ -23,4 +23,7 @@ This degree has prepared me to enter this new career field as a software enginee
 
 **Software Design and Engineering Artifact 1:CS410 Reverse Engineering Code Conversion**
 **Algorithms and Data Structure: CS410 Reverse Engineering Enhancements**
+
 <img width="436" alt="image" src="https://user-images.githubusercontent.com/86165720/163501039-054e037b-ea5a-45c8-ac67-e9637de149fa.png">
+
+<img width="736" alt="image" src="https://user-images.githubusercontent.com/86165720/163501262-0877fcca-5572-4b2a-b788-28aea0e05556.png">
