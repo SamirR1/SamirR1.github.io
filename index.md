@@ -19,6 +19,8 @@ This degree has prepared me to enter this new career field as a software enginee
 
 **2. Algorithms and Data Structure: CS410 Reverse Engineering Enhancements**
 
+[Code for artifacts 1 and 2 for this project](./CS410Conversion.py)
+
 <img width="436" alt="image" src="https://user-images.githubusercontent.com/86165720/163501039-054e037b-ea5a-45c8-ac67-e9637de149fa.png">
 
 <img width="736" alt="image" src="https://user-images.githubusercontent.com/86165720/163501262-0877fcca-5572-4b2a-b788-28aea0e05556.png">
@@ -32,6 +34,8 @@ This artifact was selected for the first and second artifact because I felt like
 As I was creating and improving this artifact it was difficult creating the new functions and not zeroing out the sum with having zero be the input that would stop taking inputs from the user and would then return the total back to them. I learned from this process to think in simpler terms of how the math would perform normally that dividing and multiplying by zero would throw off the calculation completely. The main challenge was working to become more familiar with the base64 option in python to encode/decode.
 
 **3. Databases: CS340 MySQL database creation**
+
+[Code for artifact 3 for this project](./my_script.py)
 
 <img width="521" alt="image" src="https://user-images.githubusercontent.com/86165720/163504274-6b1f1111-85e6-4d31-b734-e32b660fcb7c.png">
 
