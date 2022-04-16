@@ -37,6 +37,14 @@ This artifact was selected for the first and second artifact because I felt like
 
 As I was creating and improving this artifact it was difficult creating the new functions and not zeroing out the sum with having zero be the input that would stop taking inputs from the user and would then return the total back to them. I learned from this process to think in simpler terms of how the math would perform normally that dividing and multiplying by zero would throw off the calculation completely. The main challenge was working to become more familiar with the base64 option in python to encode/decode.
 
+**Enhancements**
+1. Conversion from C++ to python
+2. Updated the division feature to divide instead of using modulus for the remainder
+3. Added the multiplcation feature
+4. Allowed more than two inputs from the user for arithmetic
+5. Added username and password requirements to use the program
+6. Encrypted the usernames and passwords given to the program
+
 **3. Databases: CS340 MySQL database creation**
 
 [Original code for artifact 3 for this project](./CS340.py)
