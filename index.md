@@ -45,6 +45,8 @@ As I was creating and improving this artifact it was difficult creating the new 
 5. Added username and password requirements to use the program
 6. Encrypted the usernames and passwords given to the program
 
+![image](https://user-images.githubusercontent.com/86165720/163690376-da5222f5-88c8-4998-b1e6-bc42c404c78d.png)
+
 **3. Databases: CS340 MySQL database creation**
 
 [Original code for artifact 3 for this project](./CS340.py)
