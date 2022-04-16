@@ -13,11 +13,15 @@ This degree has prepared me to enter this new career field as a software enginee
 
 **Code Review**
 
+Code Review link for video available on Youtube. [CS499 Code Review](https://youtu.be/u8lCFA5iKRU)
+
 
 
 **1. Software Design and Engineering Artifact 1:CS410 Reverse Engineering Code Conversion**
 
 **2. Algorithms and Data Structure: CS410 Reverse Engineering Enhancements**
+
+[Original code for artifacts 1 and 2 for this project](./CS410Module6.cpp)
 
 [Code for artifacts 1 and 2 for this project](./CS410Conversion.py)
 
@@ -34,6 +38,8 @@ This artifact was selected for the first and second artifact because I felt like
 As I was creating and improving this artifact it was difficult creating the new functions and not zeroing out the sum with having zero be the input that would stop taking inputs from the user and would then return the total back to them. I learned from this process to think in simpler terms of how the math would perform normally that dividing and multiplying by zero would throw off the calculation completely. The main challenge was working to become more familiar with the base64 option in python to encode/decode.
 
 **3. Databases: CS340 MySQL database creation**
+
+[Original code for artifact 3 for this project](./CS340.py)
 
 [Code for artifact 3 for this project](./my_script.py)
 
